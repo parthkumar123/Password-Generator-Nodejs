@@ -11,7 +11,7 @@
 
 ## Demo
 
-To see the password generator in action, you can check out the https://password-generator-node.netlify.app.
+To see the password generator in action, you can check out the <https://password-generator-node.netlify.app>.
 
 ## Installation
 
@@ -49,6 +49,7 @@ To see the password generator in action, you can check out the https://password-
 4. 🎉 Your secure password will be displayed and you can copy the password to clipboard using copy button.
 
 ## About
+
 This repository was created and is maintained by Parth Shiyani. For questions or inquiries, you can reach me at [shiyaniparth276@email.com].
 
 Happy coding!
